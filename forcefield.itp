@@ -1,0 +1,38 @@
+#define _FF_CHARMM
+#include "./ffnonbonded.itp"
+#include "./ffbonded.itp"
+
+#include "./cer_eos_hairpin/cer1.itp"
+#include "./ucer2_hairpin_charmm/ucer2.itp"
+#include "./ucer3_hairpin_charmm/ucer3.itp"
+#include "./ucer6_hairpin/ucer6.itp"
+#include "./ecer2_hairpin/ecer2.itp"
+#include "./ecer3_hairpin/ecer3.itp"
+#include "./ecer6_hairpin/ecer6.itp"
+
+#include "./ffa_headgroup/fhead.itp"
+#include "./c24ffa/ffa24.itp"
+#include "./c22ffa/ffa22.itp"
+#include "./c20ffa/ffa20.itp"
+#include "./c18ffa/ffa18.itp"
+#include "./c16ffa/ffa16.itp"
+#include "./c12ffa/ffa12.itp"
+
+#include "./c24oh/oh24.itp"
+#include "./c22oh/oh22.itp"
+#include "./c20oh/oh20.itp"
+#include "./c18oh/oh18.itp"
+#include "./c16oh/oh16.itp"
+#include "./c12oh/oh12.itp"
+
+
+#include "./cholesterol/chol.itp"
+#include "./chol_headgroup/chead.itp"
+
+#include "./isis/ISIS.itp"
+#include "./dppc/dppc.itp"
+#include "./dspc/dspc.itp"
+;#include "./pc_head/pchd.itp"
+#include "./pc_head_notail/pchd.itp"
+
+#include "./tip3p/tip3p.itp"
