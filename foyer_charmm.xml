@@ -1680,6 +1680,10 @@
     <Bond type1="ON3" type2="P4" length="0.15300000000000002" k="401663.9999999999"/>
     <Bond type1="ON4" type2="P4" length="0.15800000000000003" k="198321.59999999995"/>
     <Bond k="456056.00000" length="0.09600" type1="OCL" type2="HL"/>
+    <Bond type1="NH1" type2="CLN" length="0.13659" k="423839.2"/>
+    <Bond type1="NH1" type2="CTL1" length="0.14668" k="311247.76"/>
+    <Bond type1="CLN" type2="OBL" length="0.12302" k="732200.0"/>
+    <Bond type1="CLN" type2="CTL2" length="0.15269" k="263968.56"/>
   </HarmonicBondForce>
   <HarmonicAngleForce>
     <Angle type1="H" type2="NH2" type3="CT1" angle="1.9373154697137058" k="418.4"/>
@@ -5606,6 +5610,20 @@
     <Angle type1="ON3" type2="P4" type3="ON3" angle="2.0943951023931953" k="870.272"/>
     <Angle type1="OCL" type2="CL" type3="OBL" angle="2.197369528260861" k="753.12"/>
     <Angle type1="CL" type2="OCL" type3="HL" angle="2.007128639793479" k="460.24"/>
+    <Angle type1="HN1" type2="NH1" type3="CLN" angle="119.61" k="660.026"/>
+    <Angle type1="HN1" type2="NH1" type3="CTL1" angle="116.55" k="292.88"/>
+    <Angle type1="CLN" type2="NH1" type3="CTL1" angle="123.36" k="907.928"/>
+    <Angle type1="NH1" type2="CLN" type3="OBL" angle="122.44" k="1493.688"/>
+    <Angle type1="NH1" type2="CLN" type3="CTL2" angle="115.48" k="1300.3872"/>
+    <Angle type1="OBL" type2="CLN" type3="CTL2" angle="118.09" k="1699.5408"/>
+    <Angle type1="CLN" type2="CTL2" type3="HAL2" angle="109.06" k="1372.352"/>
+    <Angle type1="CLN" type2="CTL2" type3="CTL2" angle="112.14" k="795.7968"/>
+    <Angle type1="NH1" type2="CTL1" type3="HAL1" angle="107.13" k="678.6448"/>
+    <Angle type1="NH1" type2="CTL1" type3="CTL2" angle="108.49" k="1361.4736"/>
+    <Angle type1="NH1" type2="CTL1" type3="CTL1" angle="107.82" k="1587.828"/>
+    <Angle type1="HAL1" type2="CTL1" type3="CEL1" angle="107.57" k="376.56"/>
+    <Angle type1="OHL" type2="CTL1" type3="CEL1" angle="111.0" k="529.999832"/>
+    <Angle type1="CTL1" type2="CEL1" type3="HEL1" angle="116.36" k="633.22748"/>
   </HarmonicAngleForce>
   <!-- Urey-Bradley terms -->
   <AmoebaUreyBradleyForce>
