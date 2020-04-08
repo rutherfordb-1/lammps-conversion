@@ -1,0 +1,14 @@
+    <Angle type1="HN1" type2="NH1" type2="CLN" angle="119.61" k="660.026"/>
+    <Angle type1="HN1" type2="NH1" type2="CTL1" angle="116.55" k="292.88"/>
+    <Angle type1="CLN" type2="NH1" type2="CTL1" angle="123.36" k="907.928"/>
+    <Angle type1="NH1" type2="CLN" type2="OBL" angle="122.44" k="1493.688"/>
+    <Angle type1="NH1" type2="CLN" type2="CTL2" angle="115.48" k="1300.3872"/>
+    <Angle type1="OBL" type2="CLN" type2="CTL2" angle="118.09" k="1699.5408"/>
+    <Angle type1="CLN" type2="CTL2" type2="HAL2" angle="109.06" k="1372.352"/>
+    <Angle type1="CLN" type2="CTL2" type2="CTL2" angle="112.14" k="795.7968"/>
+    <Angle type1="NH1" type2="CTL1" type2="HAL1" angle="107.13" k="678.6448"/>
+    <Angle type1="NH1" type2="CTL1" type2="CTL2" angle="108.49" k="1361.4736"/>
+    <Angle type1="NH1" type2="CTL1" type2="CTL1" angle="107.82" k="1587.828"/>
+    <Angle type1="HAL1" type2="CTL1" type2="CEL1" angle="107.57" k="376.56"/>
+    <Angle type1="OHL" type2="CTL1" type2="CEL1" angle="111.0" k="529.999832"/>
+    <Angle type1="CTL1" type2="CEL1" type2="HEL1" angle="116.36" k="633.22748"/>

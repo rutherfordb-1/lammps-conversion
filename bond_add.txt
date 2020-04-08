@@ -1,0 +1,4 @@
+    <Bond type1="NH1" type2="CLN" length="0.13659" k="423839.2"/>
+    <Bond type1="NH1" type2="CTL1" length="0.14668" k="311247.76"/>
+    <Bond type1="CLN" type2="OBL" length="0.12302" k="732200.0"/>
+    <Bond type1="CLN" type2="CTL2" length="0.15269" k="263968.56"/>
