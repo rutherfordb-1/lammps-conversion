@@ -1740,8 +1740,6 @@
     <Angle type1="CEL1" type2="CTL2" type3="HAL2" angle="111.5" k="376.56"/>
     <Angle type1="CEL1" type2="CTL2" type3="CTL2" angle="112.2" k="267.776"/>
   <HarmonicAngleForce>
-    <Angle type1="HW" type2="OW" type3="HW" angle="104.52" k="460.24"/>
-  <HarmonicAngleForce>
     <Angle type1="H" type2="NH2" type3="CT1" angle="1.9373154697137058" k="418.4"/>
     <Angle type1="H" type2="NH2" type3="CT2" angle="1.9373154697137058" k="418.4"/>
     <Angle type1="NH2" type2="CT1" type3="CT1" angle="1.9198621771937625" k="566.5136"/>
